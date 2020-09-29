@@ -65,7 +65,6 @@
 | 6x-2 [文字] 作业解析：用队列实现栈 | [Java](06x-Stacks-and-Queues/02-LC225-Implement-Stack-using-Queues/src/) |
 | 6x-3 [文字] 作业解析：用栈实现队列 | [Java](06x-Stacks-and-Queues/03-LC232-Implement-Queue-using-Stacks/src/) |
 | 6x-4 [文字] 更多栈和队列的问题推荐 | [无代码] |
-| 
 | **第七章 最基础的动态数据结构：链表** | [章节Java源码](07-Linked-List/) |
 | 7-1 什么是链表 | [Java](07-Linked-List/01-Linked-List-Basics/src/) |
 | 7-2 在链表中添加元素 | [Java](07-Linked-List/02-Add-Elements-in-LinkedList/src/) |
