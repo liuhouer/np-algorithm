@@ -205,7 +205,7 @@
 | 15-7 从AVL树中删除元素 | [Java](15-AVL-Tree/07-Remove-Elements-in-AVL-Tree/src/) |
 | 15-8 基于AVL树的集合和映射 | [Java](15-AVL-Tree/08-Map-and-Set-in-AVL-Tree/src/) |
 | 补充代码1: AVL树的优化 | [TO BE CONTINUED...] |
-| **第十六章 红黑树** | (16-Red-Black-Tree/) |
+| **第十六章 红黑树** |[Java] (16-Red-Black-Tree/) |
 | 16-1 红黑树与2-3树 | [无代码] |
 | 16-2 2-3树的绝对平衡性 | [无代码] |
 | 16-3 红黑树与2-3树的等价性 | [Java](16-Red-Black-Tree/03-The-Equivalence-of-RBTree-and-2-3-Tree/src/) |
@@ -223,7 +223,7 @@
 | 补充代码6: 《算法导论》中红黑树的实现 | [TO BE CONTINUED...] |
 | 补充代码7: 2-3 树的实现 | [TO BE CONTINUED...] |
 | 补充代码8: 伸展树 Splay Tree | [TO BE CONTINUED...] |
-| **第十七章 哈希表** | (17-Hash-Table/) |
+| **第十七章 哈希表** | [Java](17-Hash-Table/) |
 | 17-1 哈希表基础 | [Java](17-Hash-Table/01-Hash-Table-Basics/src/) |
 | 17-2 哈希函数 | [无代码] |
 | 17-3 Java中的hashCode方法 | [Java](17-Hash-Table/03-Hash-Function-in-Java/src/) |
@@ -237,18 +237,18 @@
 | **第十八章 结语** | [无代码] |
 | 18-1 更多数据结构和相关练习，大家加油！ | [无代码] |
 | **第十九章 补充章节：B类树** | [TO BE CONTINUED...] |
-| | 
-| | 
-| **第二十章 图的基础** | (/18-Graph-Basics) |
+| ---| 
+| ---| 
+| **第二十章 图的基础** | [Java](/18-Graph-Basics) |
 | 7-1 图论基础 | [无代码] |  |
-| 7-2 图的表示 | (18-Graph-Basics/02-Graph-Representation/src) |
-| 7-3 相邻节点迭代器 | (18-Graph-Basics/03-Vertex-Adjacent-Iterator/src) |
-| 7-4 图的算法框架 | (18-Graph-Basics/04-Read-Graph/src) |
-| 7-5 深度优先遍历和联通分量 | (18-Graph-Basics/05-DFS-and-Components/src) |
-| 7-6 寻路 | (18-Graph-Basics/06-Finding-a-Path/src) |
-| 7-7 广度优先遍历和无权图的最短路径 | (18-Graph-Basics/07-BFS-and-Shortest-Path/src) |
+| 7-2 图的表示 | [Java](18-Graph-Basics/02-Graph-Representation/src) |
+| 7-3 相邻节点迭代器 | [Java](18-Graph-Basics/03-Vertex-Adjacent-Iterator/src) |
+| 7-4 图的算法框架 | [Java](18-Graph-Basics/04-Read-Graph/src) |
+| 7-5 深度优先遍历和联通分量 | [Java](18-Graph-Basics/05-DFS-and-Components/src) |
+| 7-6 寻路 | [Java](18-Graph-Basics/06-Finding-a-Path/src) |
+| 7-7 广度优先遍历和无权图的最短路径 | [Java](18-Graph-Basics/07-BFS-and-Shortest-Path/src) |
 | 7-8 迷宫生成，PS抠图 —— 更多无权图的应用 | [无代码] |  |
-| 本章课程最终代码 | (18-Graph-Basics/Chapter-07-Completed-Code/src) |
+| 本章课程最终代码 | [Java](18-Graph-Basics/Chapter-07-Completed-Code/src) |
 | 补充1 Floodfill算法练习题 | [玩转算法面试](http://coding.imooc.com/class/82.html#Anchor) | [第八章第7小节](http://coding.imooc.com/lesson/82.html#mid=2694) |
 | 补充2 Floodfill算法可视化 (Java) | [整理中] | [敬请期待] |
 | 补充3 扫雷游戏模型 | [看得见的算法](http://coding.imooc.com/class/138.html) | [第七章](http://coding.imooc.com/lesson/138.html#mid=7266) |
@@ -262,27 +262,27 @@
 | 补充11 六边形的迷宫生成 | [整理中] | [敬请期待] |
 | 补充12 TSP问题 | [整理中] | [敬请期待] |
 | 补充13 TSP问题之遗传算法初步 | [整理中] | [敬请期待] |
-| **第八章 最小生成树** |  (19-Minimum-Span-Trees) |
-| 8-1 有权图 |   (19-Minimum-Span-Trees/01-Weighted-Graph) |
+| **第二十一章 最小生成树** |  [Java](19-Minimum-Span-Trees) |
+| 8-1 有权图 |  [Java] (19-Minimum-Span-Trees/01-Weighted-Graph) |
 | 8-2 最小生成树问题和切分定理 | [无代码] | |
-| 8-3 Prim算法的第一个实现 (Lazy Prim) |  (19-Minimum-Span-Trees/03-Lazy-Prim/src) |
+| 8-3 Prim算法的第一个实现 (Lazy Prim) |  [Java](19-Minimum-Span-Trees/03-Lazy-Prim/src) |
 | 8-4 Prim算法的优化 | [无代码] | |
-| 8-5 优化后的Prim算法的实现 |  (19-Minimum-Span-Trees/05-Implementation-of-Optimized-Prim-Algorithm/src) |
-| 8-6 Kruskal算法 | (19-Minimum-Span-Trees/06-Kruskal-Algorithm/src) |
+| 8-5 优化后的Prim算法的实现 |  [Java](19-Minimum-Span-Trees/05-Implementation-of-Optimized-Prim-Algorithm/src) |
+| 8-6 Kruskal算法 | [Java](19-Minimum-Span-Trees/06-Kruskal-Algorithm/src) |
 | 8-7 最小生成树算法的思考 | [无代码] | |
-| 本章课程最终代码 |  (19-Minimum-Span-Trees/Chapter-08-Completed-Code/src) |
+| 本章课程最终代码 |  [Java](19-Minimum-Span-Trees/Chapter-08-Completed-Code/src) |
 | 补充1 Prim算法可视化 (Java) | [整理中] | [敬请期待] |
 | 补充2 Kruskal算法可视化 (Java) | [整理中] | [敬请期待] |
 | 补充3 图的最小生成树的个数 | [整理中] | [敬请期待] |
 | 补充4 Vyssotsky Algorithm | [整理中] | [敬请期待] |
-| **第九章 最短路径** |  (20-Shortest-Path) |
+| **第二十二章 最短路径** |  [Java](20-Shortest-Path) |
 | 9-1 最短路径问题和松弛操作(Relaxation) | [无代码] | |
 | 9-2 Dijkstra的算法思想 | [无代码] | |
-| 9-3 实现Dijkstra算法 | (20-Shortest-Path/03-Implementation-of-Dijkstra) |
+| 9-3 实现Dijkstra算法 | [Java](20-Shortest-Path/03-Implementation-of-Dijkstra) |
 | 9-4 负权边和Bellman-Ford算法 | [无代码] | |
-| 9-5 实现Bellman-Ford算法 |(20-Shortest-Path/05-Implementation-of-Bellman-Ford) |
+| 9-5 实现Bellman-Ford算法 |[Java](20-Shortest-Path/05-Implementation-of-Bellman-Ford) |
 | 9-6 更多和最短路径相关的思考 | [无代码] | |
-| 本章课程最终代码 | (20-Shortest-Path/Chapter-09-Completed-Code) |
+| 本章课程最终代码 | [Java](20-Shortest-Path/Chapter-09-Completed-Code) |
 | 补充1 基于最小堆的 Dijkstra 实现 |  |
 | 补充2 SPFA算法 | [整理中] | [敬请期待] |
 | 补充3 有向无环图（DAG）的拓扑排序 | [整理中] | [敬请期待] |
