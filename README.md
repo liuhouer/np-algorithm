@@ -7,7 +7,7 @@
 | 1-3 更多课程学习注意事项 | [无代码] |
 | 1-4 课程编程环境的搭建 | [无代码] |
 | 1-5 【文字】JDK 的国内下载链接，和更多学习方法 | [无代码] |
-| **第二章 线性查找法** | [章节Java源码](02-Linear-Search/) |
+| **第二章 线性查找法** | (02-Linear-Search/) |
 | 2-1 什么是算法 | [无代码] |
 | 2-2 最简单的算法：线性查找法 | [无代码] |
 | 2-3 实现线性查找法 | [Java](02-Linear-Search/03-Linaer-Search/src/) |
@@ -18,7 +18,7 @@
 | 2-8 常见的时间复杂度 | [无代码] |
 | 2-9 测试算法性能 | [Java](02-Linear-Search/09-Test-Performance/src/) |
 | 2-10 本章小结 | [无代码] |
-| **第三章 选择排序法** | [章节Java源码](03-Selection-Sort/) |
+| **第三章 选择排序法** | (03-Selection-Sort/) |
 | 3-1 最简单的排序算法：选择排序法 | [无代码] |
 | 3-2 实现选择排序法 | [Java](03-Selection-Sort/02-Selection-Sort/src/) |
 | 3-3 使用带约束的泛型 | [Java](03-Selection-Sort/03-Using-Generics/src/) |
@@ -26,7 +26,7 @@
 | 3-5 选择排序法的复杂度分析 | [Java](03-Selection-Sort/05-Performance-of-Selection-Sort/src/) |
 | 3-6 作业：换个角度实现选择排序法 | [无代码] |
 | 3-7 [文字] 作业解析：换个角度实现选择排序法 | [Java](03-Selection-Sort/07-Another-Selection-Sort/src/) |
-| **第四章 插入排序法** | [章节Java源码](04-Insertion-Sort/) |
+| **第四章 插入排序法** | (04-Insertion-Sort/) |
 | 4-1 插入排序法 | [无代码] |
 | 4-2 实现插入排序法 | [Java](04-Insertion-Sort/02-Insertion-Sort/src/) |
 | 4-3 插入排序法的一个小优化 | [Java](04-Insertion-Sort/03-Insertion-Sort-Optimized/src/) |
@@ -34,7 +34,7 @@
 | 4-5 作业：换个角度实现插入排序法 | [无代码] |
 | 4-6 [文字] 作业解析：换个角度实现插入排序法 | [Java](04-Insertion-Sort/06-Another-Insertion-Sort/src/) |
 | 4-7 本章小结 | [无代码] |
-| **第五章 最基础的数据结构：不要小瞧数组** | [章节Java源码](05-Arrays/) |
+| **第五章 最基础的数据结构：不要小瞧数组** | (05-Arrays/) |
 | 5-1 为什么要研究数据结构 | [无代码] |
 | 5-2 使用Java中的数组 | [Java](05-Arrays/02-Array-Basics/src/) |
 | 5-3 二次封装属于我们自己的数组 | [Java](05-Arrays/03-Create-Our-Own-Array/src/) |
@@ -45,7 +45,7 @@
 | 5-8 动态数组 | [Java](05-Arrays/08-Dynamic-Array/src/) |
 | 5-9 简单的复杂度分析 | [无代码] |
 | 5-10 均摊复杂度和防止复杂度的震荡 | [Java](05-Arrays/10-Amortized-Time-Complexity/src/) |
-| **第六章 栈和队列** | [章节Java源码](06-Stacks-and-Queues/) |
+| **第六章 栈和队列** | (06-Stacks-and-Queues/) |
 | 6-1 栈和栈的应用：撤销操作和系统栈 | [无代码] |
 | 6-2 栈的基本实现 | [Java](06-Stacks-and-Queues/02-Array-Stack/src/) |
 | 6-3 栈的另一个应用：括号匹配 | [Java](06-Stacks-and-Queues/03-A-Stack-Problem-in-Leetcode/src/) |
@@ -60,12 +60,12 @@
 | 6-12 作业：双端队列 | [无代码] |
 | 6-13 [文字] 作业解析：实现双端队列 | [Java](06-Stacks-and-Queues/13-Deque/src/) |
 | 6-14 [文字] 扩展阅读：Java 程序员，别用 Stack？！ | [无代码] |
-| **第六章补充：栈和队列其他习题** | [章节Java源码](06x-Stacks-and-Queues/) |
+| **第六章补充：栈和队列其他习题** | (06x-Stacks-and-Queues/) |
 | 6x-1 作业：用栈实现队列和用队列实现栈 | [无代码] |
 | 6x-2 [文字] 作业解析：用队列实现栈 | [Java](06x-Stacks-and-Queues/02-LC225-Implement-Stack-using-Queues/src/) |
 | 6x-3 [文字] 作业解析：用栈实现队列 | [Java](06x-Stacks-and-Queues/03-LC232-Implement-Queue-using-Stacks/src/) |
 | 6x-4 [文字] 更多栈和队列的问题推荐 | [无代码] |
-| **第七章 最基础的动态数据结构：链表** | [章节Java源码](07-Linked-List/) |
+| **第七章 最基础的动态数据结构：链表** | (07-Linked-List/) |
 | 7-1 什么是链表 | [Java](07-Linked-List/01-Linked-List-Basics/src/) |
 | 7-2 在链表中添加元素 | [Java](07-Linked-List/02-Add-Elements-in-LinkedList/src/) |
 | 7-3 使用链表的虚拟头结点 | [Java](07-Linked-List/03-DummyHead-in-LinkedList/src/) |
@@ -74,7 +74,7 @@
 | 7-6 使用链表实现栈 | [Java](07-Linked-List/06-Implement-Stack-in-LinkedList/src/) |
 | 7-7 带有尾指针的链表：使用链表实现队列 | [Java](07-Linked-List/07-Implement-Queue-in-LinkedList/src/) |
 | 7-8 [文字] 链表的性能问题 | [Java](07-Linked-List/08-LinkedList-Performance/src/) |
-| **第八章 透过链表看递归** | [章节Java源码](08-Recursion/) |
+| **第八章 透过链表看递归** | (08-Recursion/) |
 | 8-1 Leetcode中和链表相关的问题 | [Java](08-Recursion/01-Linked-List-Problems-in-Leetcode/src/) |
 | 8-2 测试自己的Leetcode链表代码 | [Java](08-Recursion/02-Test-Your-LinkedList-Solution/src/) |
 | 8-3 递归基础与递归的宏观语意 | [Java](08-Recursion/03-Recursion-Basics/src/) |
@@ -87,12 +87,12 @@
 | 8-10 更多和链表相关的话题 | [无代码] |
 | 8-11 [文字] 斯坦福大学推荐的 18 个链表相关问题 | [无代码] |
 | 8-12 斯坦福大学推荐的 18 个链表相关问题 | [PDF](08-Recursion/11-Stanford-LinkedList-Problems) |
-| **第八章补充 链表相关习题** | [章节Java源码](08x-Linked-List/) |
+| **第八章补充 链表相关习题** | (08x-Linked-List/) |
 | 8x-1 链表最经典的问题：翻转链表 | [无代码] |
 | 8x-2 翻转链表的非递归实现 | [Java](08x-Linked-List/02-LC-206-Reverse-Linked-List/src/) |
 | 8x-3 翻转链表的递归实现 | [Java](08x-Linked-List/03-LC206-Reverse-Linked-List/src/) |
 | 8x-4 更多链表问题推荐 | [无代码] |
-| **第九章 二分搜索树** | [章节Java源码](09-Binary-Search-Tree/) |
+| **第九章 二分搜索树** | (09-Binary-Search-Tree/) |
 | 9-1 为什么要研究树结构 | [无代码] |
 | 9-2 二分搜索树基础 | [Java](09-Binary-Search-Tree/02-Binary-Search-Tree-Basics/src/) |
 | 9-3 向二分搜索树中添加元素 | [Java](09-Binary-Search-Tree/03-Add-Elements-in-BST/src/) |
@@ -119,7 +119,7 @@
 | 补充代码11: 节点内维护depth的二分搜索树 | [TO BE CONTINUED...] |
 | 补充代码12: 节点内维护count的二分搜索树<br/>(支持重复元素的二分搜索树) | [TO BE CONTINUED...] |
 | 补充代码13: 有重复元素节点的二分搜索树<br/>(另一种支持重复元素的二分搜索树实现) | [TO BE CONTINUED...] |
-| **第十章 集合和映射** | [章节Java源码](10-Set-and-Map/) |
+| **第十章 集合和映射** | (10-Set-and-Map/) |
 | 10-1 集合基础和基于二分搜索树的集合实现 | [Java](10-Set-and-Map/01-Set-Basics-and-BSTSet/src/) |
 | 10-2 基于链表的集合实现 | [Java](10-Set-and-Map/02-LinkedListSet/src/) |
 | 10-3 集合类的复杂度分析 | [Java](10-Set-and-Map/03-Time-Complexity-of-Set/src/) |
@@ -136,7 +136,7 @@
 | 补充代码5: 多重集合 | [TO BE CONTINUED...] |
 | 补充代码6: 多重映射 | [TO BE CONTINUED...] |
 | 补充代码7: 基于映射实现的集合 | [TO BE CONTINUED...] |
-| **第十一章 堆和优先队列** | [章节Java源码](11-Heap-and-Priority-Queue/) |
+| **第十一章 堆和优先队列** | (11-Heap-and-Priority-Queue/) |
 | 11-1 什么是优先队列 | [无代码] |
 | 11-2 堆的基础表示 | [Java](11-Heap-and-Priority-Queue/02-Heap-Basics/src/) |
 | 11-3 向堆中添加元素和Sift Up | [Java](11-Heap-and-Priority-Queue/03-Add-and-Sift-Up-in-Heap/src/) |
@@ -155,7 +155,7 @@
 | 补充代码7: 二项堆 | [TO BE CONTINUED...] |
 | 补充代码8: 斐波那契堆 | [TO BE CONTINUED...] |
 | 补充代码9: 基于事件堆的粒子检测碰撞 | [TO BE CONTINUED...] |
-| **第十二章 线段树** | [章节Java源码](12-Segment-Tree/) |
+| **第十二章 线段树** | (12-Segment-Tree/) |
 | 12-1 什么是线段树 | [无代码] |
 | 12-2 线段树基础表示 | [Java](12-Segment-Tree/02-Segment-Tree-Basics/src/) |
 | 12-3 创建线段树 | [Java](12-Segment-Tree/03-Building-Segment-Tree/src/) |
@@ -170,7 +170,7 @@
 | 补充代码5: 二维线段树 | [TO BE CONTINUED...] |
 | 补充代码6: 树状数组(Binary Index Tree) | [TO BE CONTINUED...] |
 | 补充代码7: RMQ问题 | [TO BE CONTINUED...] |
-| **第十三章 Trie** | [章节Java源码](13-Trie/) |
+| **第十三章 Trie** | (13-Trie/) |
 | 13-1 什么是Trie字典树 | [无代码] |
 | 13-2 Trie字典树基础 | [Java](13-Trie/02-Trie-Basics/src/) |
 | 13-3 Trie字典树的查询 | [Java](13-Trie/03-Searching-in-Trie/src/) | 
@@ -187,7 +187,7 @@
 | 补充代码7: 子串查询算法 | [TO BE CONTINUED...] |
 | 补充代码8: 文件压缩算法 | [TO BE CONTINUED...] |
 | 补充代码9: 模式匹配算法 | [TO BE CONTINUED...] |
-| **第十四章 并查集** | [章节Java源码](14-Union-Find/) |
+| **第十四章 并查集** | (14-Union-Find/) |
 | 14-1 什么是并查集 | [Java](14-Union-Find/01-What-is-UnionFind/src/) |
 | 14-2 Quick Find | [Java](14-Union-Find/02-Quick-Find/src/) |
 | 14-3 Quick Union | [Java](14-Union-Find/03-Quick-Union/src/) |
@@ -195,7 +195,7 @@
 | 14-5 基于rank的优化 | [Java](14-Union-Find/05-Optimized-by-Rank/src/) |
 | 14-6 路径压缩 | [Java](14-Union-Find/06-Path-Compression/src/) |
 | 14-7 更多和并查集相关的话题 | [Java](14-Union-Find/07-More-about-Union-Find/src/) |
-| **第十五章 平衡树和AVL** | [章节Java源码](15-AVL-Tree/) |
+| **第十五章 平衡树和AVL** | (15-AVL-Tree/) |
 | 15-1 平衡树和AVL | [无代码] |
 | 15-2 计算节点的高度和平衡因子 | [Java](15-AVL-Tree/02-Calculating-Balance-Factor/src/) |
 | 15-3 检查二分搜索树性质和平衡性 | [Java](15-AVL-Tree/03-Checking-Balancing-and-Binary-Search-Property/src/) |
@@ -205,7 +205,7 @@
 | 15-7 从AVL树中删除元素 | [Java](15-AVL-Tree/07-Remove-Elements-in-AVL-Tree/src/) |
 | 15-8 基于AVL树的集合和映射 | [Java](15-AVL-Tree/08-Map-and-Set-in-AVL-Tree/src/) |
 | 补充代码1: AVL树的优化 | [TO BE CONTINUED...] |
-| **第十六章 红黑树** | [章节Java源码](16-Red-Black-Tree/) |
+| **第十六章 红黑树** | (16-Red-Black-Tree/) |
 | 16-1 红黑树与2-3树 | [无代码] |
 | 16-2 2-3树的绝对平衡性 | [无代码] |
 | 16-3 红黑树与2-3树的等价性 | [Java](16-Red-Black-Tree/03-The-Equivalence-of-RBTree-and-2-3-Tree/src/) |
@@ -223,7 +223,7 @@
 | 补充代码6: 《算法导论》中红黑树的实现 | [TO BE CONTINUED...] |
 | 补充代码7: 2-3 树的实现 | [TO BE CONTINUED...] |
 | 补充代码8: 伸展树 Splay Tree | [TO BE CONTINUED...] |
-| **第十七章 哈希表** | [章节Java源码](17-Hash-Table/) |
+| **第十七章 哈希表** | (17-Hash-Table/) |
 | 17-1 哈希表基础 | [Java](17-Hash-Table/01-Hash-Table-Basics/src/) |
 | 17-2 哈希函数 | [无代码] |
 | 17-3 Java中的hashCode方法 | [Java](17-Hash-Table/03-Hash-Function-in-Java/src/) |
@@ -237,4 +237,57 @@
 | **第十八章 结语** | [无代码] |
 | 18-1 更多数据结构和相关练习，大家加油！ | [无代码] |
 | **第十九章 补充章节：B类树** | [TO BE CONTINUED...] |
+| | 
+| | 
+| **第二十章 图的基础** | (/18-Graph-Basics) |
+| 7-1 图论基础 | [无代码] |  |
+| 7-2 图的表示 | (18-Graph-Basics/02-Graph-Representation/src) |
+| 7-3 相邻节点迭代器 | (18-Graph-Basics/03-Vertex-Adjacent-Iterator/src) |
+| 7-4 图的算法框架 | (18-Graph-Basics/04-Read-Graph/src) |
+| 7-5 深度优先遍历和联通分量 | (18-Graph-Basics/05-DFS-and-Components/src) |
+| 7-6 寻路 | (18-Graph-Basics/06-Finding-a-Path/src) |
+| 7-7 广度优先遍历和无权图的最短路径 | (18-Graph-Basics/07-BFS-and-Shortest-Path/src) |
+| 7-8 迷宫生成，PS抠图 —— 更多无权图的应用 | [无代码] |  |
+| 本章课程最终代码 | (18-Graph-Basics/Chapter-07-Completed-Code/src) |
+| 补充1 Floodfill算法练习题 | [玩转算法面试](http://coding.imooc.com/class/82.html#Anchor) | [第八章第7小节](http://coding.imooc.com/lesson/82.html#mid=2694) |
+| 补充2 Floodfill算法可视化 (Java) | [整理中] | [敬请期待] |
+| 补充3 扫雷游戏模型 | [看得见的算法](http://coding.imooc.com/class/138.html) | [第七章](http://coding.imooc.com/lesson/138.html#mid=7266) |
+| 补充4 随机迷宫生成 | [看得见的算法](http://coding.imooc.com/class/138.html) | [第六章](http://coding.imooc.com/lesson/138.html#mid=7073) |
+| 补充5 欧拉路径 | [整理中] | [敬请期待] |
+| 补充6 哈密尔顿路径 | [整理中] | [敬请期待] |
+| 补充7 Blue Path 自动求解 | [整理中] | [敬请期待] |
+| 补充8 地图填色问题 | [整理中] | [敬请期待] |
+| 补充9 二分图和二分图的最有匹配 | [整理中] | [敬请期待] |
+| 补充10 墙为线条的迷宫生成 | [整理中] | [敬请期待] |
+| 补充11 六边形的迷宫生成 | [整理中] | [敬请期待] |
+| 补充12 TSP问题 | [整理中] | [敬请期待] |
+| 补充13 TSP问题之遗传算法初步 | [整理中] | [敬请期待] |
+| **第八章 最小生成树** |  (19-Minimum-Span-Trees) |
+| 8-1 有权图 |   (19-Minimum-Span-Trees/01-Weighted-Graph) |
+| 8-2 最小生成树问题和切分定理 | [无代码] | |
+| 8-3 Prim算法的第一个实现 (Lazy Prim) |  (19-Minimum-Span-Trees/03-Lazy-Prim/src) |
+| 8-4 Prim算法的优化 | [无代码] | |
+| 8-5 优化后的Prim算法的实现 |  (19-Minimum-Span-Trees/05-Implementation-of-Optimized-Prim-Algorithm/src) |
+| 8-6 Kruskal算法 | (19-Minimum-Span-Trees/06-Kruskal-Algorithm/src) |
+| 8-7 最小生成树算法的思考 | [无代码] | |
+| 本章课程最终代码 |  (19-Minimum-Span-Trees/Chapter-08-Completed-Code/src) |
+| 补充1 Prim算法可视化 (Java) | [整理中] | [敬请期待] |
+| 补充2 Kruskal算法可视化 (Java) | [整理中] | [敬请期待] |
+| 补充3 图的最小生成树的个数 | [整理中] | [敬请期待] |
+| 补充4 Vyssotsky Algorithm | [整理中] | [敬请期待] |
+| **第九章 最短路径** |  (20-Shortest-Path) |
+| 9-1 最短路径问题和松弛操作(Relaxation) | [无代码] | |
+| 9-2 Dijkstra的算法思想 | [无代码] | |
+| 9-3 实现Dijkstra算法 | (20-Shortest-Path/03-Implementation-of-Dijkstra) |
+| 9-4 负权边和Bellman-Ford算法 | [无代码] | |
+| 9-5 实现Bellman-Ford算法 |(20-Shortest-Path/05-Implementation-of-Bellman-Ford) |
+| 9-6 更多和最短路径相关的思考 | [无代码] | |
+| 本章课程最终代码 | (20-Shortest-Path/Chapter-09-Completed-Code) |
+| 补充1 基于最小堆的 Dijkstra 实现 |  |
+| 补充2 SPFA算法 | [整理中] | [敬请期待] |
+| 补充3 有向无环图（DAG）的拓扑排序 | [整理中] | [敬请期待] |
+| 补充4 Floyed算法 | [整理中] | [敬请期待] |
+| 补充5 使用Bellman-Ford求最长路径 | [整理中] | [敬请期待] |
+| 补充6 使用拓扑排序求有向无环图（DAG）的最长路径 | [整理中] | [敬请期待] |
+| 补充7 使用Floyed算法求所有对的最长路径 | [整理中] | [敬请期待] |
 | | |
