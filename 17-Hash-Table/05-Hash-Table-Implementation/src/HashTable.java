@@ -19,6 +19,7 @@ public class HashTable<K, V> {
     }
 
     private int hash(K key){
+        //key.hashCode() & 0x7fffffff 消除正数位的符号的写法【绝对值】
         return (key.hashCode() & 0x7fffffff) % M;
     }
 

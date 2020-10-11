@@ -1,5 +1,5 @@
 
-
+//带权图接口
 interface WeightedGraph<Weight extends Number & Comparable> {
     public int V();
     public int E();
