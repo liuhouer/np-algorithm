@@ -308,4 +308,32 @@ public class BST<E extends Comparable<E>> {
             res.append("--");
         return res.toString();
     }
+    
+     // 获取深度
+    public int levelDepth(){
+        return levelDepth(root);
+    }
+
+    private int levelDepth(Node node){
+        if(node == null ){
+            return  0;
+        }
+        int left = levelDepth(node.left);
+        int right = levelDepth(node.right);
+        return left>right?left+1 :right +1;
+    }
+    
+    
+    public static void main(String[] args) {
+        BST<Integer> bst = new BST<>();
+        bst.add(2);
+        bst.add(1);
+        bst.add(4);
+        bst.add(3);
+        bst.add(5);
+
+        int lev = bst.levelDepth();
+        System.err.println(lev);
+    }
+    
 }
