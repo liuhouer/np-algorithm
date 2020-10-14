@@ -271,7 +271,12 @@ public class Graph<T extends Comparable> implements GraphInterface<T>, java.io.S
     }
 
     @Override
-    public double getCheapestPath(T begin, T end, Stack<Edge<T>> path) {
+    public double getCheapestPath(T begin, T end, Stack<Edge<T>> path){
+        return Dijkstra(begin,end,path);
+    }
+
+    @Override
+    public double Dijkstra(T begin, T end, Stack<Edge<T>> path) {
         resetVertices();
         boolean done = false;//标记整个遍历过程是否完成
         Queue<VertexInterface<T>> vertexQueue = new LinkedList<>();
@@ -321,8 +326,8 @@ public class Graph<T extends Comparable> implements GraphInterface<T>, java.io.S
                 if (from[id] == null || distTo[v].doubleValue() + weight < distTo[id].doubleValue()) {
                     distTo[id] = distTo[v].doubleValue() + weight;
                     //设置前驱节点表示为路径
-                        edge.setStart(frontVertex);
-                        from[id] = edge;
+                    edge.setStart(frontVertex);
+                    from[id] = edge;
                     //设置前驱节点表示为路径
 
                     if (ipq.contain(id)) {
@@ -352,7 +357,7 @@ public class Graph<T extends Comparable> implements GraphInterface<T>, java.io.S
 
         }//end outer while. and traverse over
 
-      
+
         int endID = endVertex.getID();
         Edge<T> e = from[endID];
 

@@ -56,4 +56,18 @@ public interface GraphAlgorithmsInterface<T> {
      * @return 返回费用最低路径的费用
      */
     public double getCheapestPath(T begin, T end,  Stack<Edge<T>> path);
+
+    /**
+     * Task: 实现迪杰特斯拉算法寻最短路径
+     *
+     * @param begin 标识路径的起点
+     * @param end   标识路径的终点
+     * @param path  初始为空的栈
+     *              该栈保存沿费用最低的路径的顶点
+     *              起点标识位于栈顶,终点的标识位于栈底
+     * @return 返回费用最低路径的费用
+     */
+    public double Dijkstra(T begin, T end,  Stack<Edge<T>> path);
+
+
 }

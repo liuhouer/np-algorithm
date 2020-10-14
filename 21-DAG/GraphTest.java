@@ -44,7 +44,7 @@ public class GraphTest {
             graph.addVertex("8",graph.getSizeOfVertices());
 //        }
 
-        System.out.println("Adding Edge...  添加边  ");
+        System.out.println("Adding Edge.java...  添加边  ");
         // 添加边==============================================================
 //        graph.addEdge("1","2",2);
 //        graph.addEdge("1","3",1);
